@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 streamlit
 openai-whisper
 transformers
@@ -8,14 +7,3 @@ pydub
 numpy
 ffmpeg-python
 ffmpeg-python
-=======
-streamlit
-openai-whisper
-transformers
-torch
-torchaudio
-pydub
-numpy
-ffmpeg-python
-ffmpeg-python
->>>>>>> 9355cb45 (chore: initial commit)
