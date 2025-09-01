@@ -1,0 +1,23 @@
+<<<<<<< HEAD
+{
+  "typeCheckingMode": "strict",
+  "reportMissingTypeStubs": false,
+  "reportMissingImports": true,
+  "reportOptionalMemberAccess": true,
+  "reportOptionalSubscript": true,
+  "reportGeneralTypeIssues": true,
+  "reportUntypedFunctionDecorator": true,
+  "reportUntypedClassDecorator": true
+}
+=======
+{
+  "typeCheckingMode": "strict",
+  "reportMissingTypeStubs": false,
+  "reportMissingImports": true,
+  "reportOptionalMemberAccess": true,
+  "reportOptionalSubscript": true,
+  "reportGeneralTypeIssues": true,
+  "reportUntypedFunctionDecorator": true,
+  "reportUntypedClassDecorator": true
+}
+>>>>>>> 9355cb45 (chore: initial commit)

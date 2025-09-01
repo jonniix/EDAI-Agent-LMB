@@ -1,0 +1,21 @@
+# Python 
+__pycache__/ 
+*.pyc 
+*.pyo 
+*.pyd 
+ECHO attivo.
+# Virtual env 
+.venv/ 
+env/ 
+ENV/ 
+ECHO attivo.
+# Logs 
+*.log 
+ECHO attivo.
+# IDE 
+.vscode/ 
+.idea/ 
+ECHO attivo.
+# OS 
+.DS_Store 
+Thumbs.db 
